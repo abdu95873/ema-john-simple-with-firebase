@@ -1,0 +1,40 @@
+.form-container{
+    width: 500px;
+    height: 600px;
+    margin: 10px auto;
+    border:  1px solid #95A0A7;
+    border-radius: 8px;
+    
+}
+.form-title{
+    font-style: lato;
+    text-align: center;
+}
+.form-control{
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+
+.form-control label{
+    display: block;
+
+}
+.form-control input{
+    width: 415px;
+    height: 55px;
+    border-radius: 8px;
+    
+}
+.btn-submit{
+    width: 415px;
+    height: 55px;
+    border-radius: 8px;
+    margin-left: 40px;
+    background-color:rgba(243, 191, 124, 0.919);
+}
+.btn-submit:hover {
+    background-color:rgba(243, 191, 124, 0.548);
+}
+p{
+    margin-left: 40px;
+}
